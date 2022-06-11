@@ -1,0 +1,49 @@
+.header{
+    min-height: 50px;
+    background-color: aqua;
+    padding: 50px 30px 30px 70px;
+    margin-top:30px;
+}
+.container{
+    overflow: hidden;
+    border: 5px solid green;
+}
+.content{
+    min-height: 300px;
+    background-color: chartreuse;
+    width: 60%;
+    float: left;
+}
+.aside{
+    min-height: 300px;
+    background-color: crimson;
+    width: 40%;
+    float: right;
+}
+.footer{
+    min-height: 100px;
+    background-color: rgb(204, 82, 82);
+}
+
+
+h1{
+    display: inline;
+
+}
+h2{
+    display: inline-block;
+}
+.block_ele{
+    display: block;
+}
+/* Previous Day Assignment */
+
+
+.color_div{
+    width: 150px;
+    height: 150px;
+    background-color: rgba(0, 0, 0, .7);
+    margin-top: -100px;
+}
+
+
